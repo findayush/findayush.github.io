@@ -8772,7 +8772,7 @@ h1, h2, h3, h4, h5,
   z-index: 0;
   position: relative; } */
   .about-me-img{
-    background-image:url(../images/ayush.jpg);
+    background-image:url(../images/gitProfile.jpg);
   }
   @media (min-width: 767.98px) {
     .ftco-about .img-about {
@@ -8783,7 +8783,7 @@ h1, h2, h3, h4, h5,
       height: 54%;  
       } 
       .about-me-img{
-        background-image:url(../images/ayush.jpg);border: 3px solid #ffbd39;
+        background-image:url(../images/gitProfile.jpg);border: 3px solid #ffbd39;
                 border-radius: 50%;
       }}
   .ftco-about .img-about .img {
