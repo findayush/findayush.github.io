@@ -8433,6 +8433,10 @@ h1, h2, h3, h4, h5,
       height: 750px;
       position: relative;
       z-index: 0; }
+      .owl-carousel.home-slider .ball{
+        position: absolute;
+        border-radius: 100%;
+        opacity: 0.8; }
       @media (max-width: 1199.98px) {
         .owl-carousel.home-slider .slider-item {
           background-position: center center !important; } }
